@@ -1,0 +1,101 @@
+{
+  "fish_species": [
+    {
+      "id": "perch",
+      "name": "Okoń",
+      "english_name": "Perch",
+      "fishing_season": "Cały rok (najlepszy jesień i zima)",
+      "feeding_behavior": "Drapieżnik polujący w stadach, aktywny głównie w ciągu dnia. Atakuje energicznie i zdecydowanie.",
+      "best_baits": [
+        "Małe sztuczne przynęty (obrotówki, gumy)",
+        "Żywiec (mała ukleja)",
+        "Robaki (białe robaki, czerwone robaki)"
+      ],
+      "meat_taste": "Białe, chude, bardzo smaczne mięso o zwartej strukturze i małej ilości ości."
+    },
+    {
+      "id": "pike",
+      "name": "Szczupak",
+      "english_name": "Northern Pike",
+      "fishing_season": "Od 1 maja do 31 grudnia (wcześniej obowiązywał okres ochronny)",
+      "feeding_behavior": "Samotnik i typowy zasadzkawca. Czeka w ukryciu (wodorosty, zatopione drzewa) i błyskawicznie atakuje przepływającą ofiarę.",
+      "best_baits": [
+        "Duże błystki obrotowe i wahadłowe",
+        "Woblery",
+        "Gumy (twistery, rippery)",
+        "Martwa rybka"
+      ],
+      "meat_taste": "Chude, jędrne mięso, dość chrzęstne i ościste (szczególnie ości widelcowe), doskonałe na mielone lub faszerowane."
+    },
+    {
+      "id": "zander",
+      "name": "Sandacz",
+      "english_name": "Zander / Pike-perch",
+      "fishing_season": "Od 1 czerwca do 31 grudnia",
+      "feeding_behavior": "Nocny drapieżnik o wyśmienitym wzroku, żerujący w głębszych, mętnych wodach o twardym dnie.",
+      "best_baits": [
+        "Wąskie woblery",
+        "Gumy sandaczowe (kopyta, rippery na główkach jigowych)",
+        "Martwa rybka na dnie"
+      ],
+      "meat_taste": "Wykwintne, białe, delikatne mięso o niskiej zawartości tłuszczu, z bardzo małą ilością ości – uważa się je za jedno z najsmaczniejszych."
+    },
+    {
+      "id": "tench",
+      "name": "Lin",
+      "english_name": "Tench",
+      "fishing_season": "Od maja do września (najlepiej wczesnym latem)",
+      "feeding_behavior": "Ostrożna ryba denna, żeruje powoli, przesuwając muł w poszukiwaniu pokarmu. Często zostawia charakterystyczne bąble powietrza na wodzie.",
+      "best_baits": [
+        "Czerwone robaki",
+        "Kukurydza",
+        "Pęczak",
+        "Białe robaki"
+      ],
+      "meat_taste": "Delikatne, słodkawe mięso o specyficznym, mulistym posmaku (którego można pozbyć się, mocząc rybę w mleku przed przyrządzeniem)."
+    },
+    {
+      "id": "roach",
+      "name": "Płoć",
+      "english_name": "Roach",
+      "fishing_season": "Cały rok",
+      "feeding_behavior": "Żeruje stadnie w toni wodnej lub przy dnie. Pobiera pokarm ostrożnie, skubiąc przynętę.",
+      "best_baits": [
+        "Białe robaki i pinka",
+        "Ciasto chlebowe",
+        "Kukurydza",
+        "Konopie gotowane"
+      ],
+      "meat_taste": "Mięso delikatne, ale dość ościste. Najlepiej smakuje po usmażeniu na chrupko lub zamarynowaniu."
+    },
+    {
+      "id": "bleak",
+      "name": "Ukleja",
+      "english_name": "Bleak",
+      "fishing_season": "Cały rok (głównie wiosna i lato)",
+      "feeding_behavior": "Szybka ryba powierzchniowa, żeruje łapczywie i masowo, zbierając owady z lustra wody.",
+      "best_baits": [
+        "Pinki",
+        "Kawałki białych robaków",
+        "Małe muchy wędkarskie"
+      ],
+      "meat_taste": "Bardzo mała rybka, doskonała po usmażeniu w całości ('na chrupko' jako przekąska) lub do robienia domowych szprotek."
+    },
+    {
+      "id": "bream",
+      "name": "Leszcz",
+      "english_name": "Bronze Bream",
+      "fishing_season": "Od maja do października",
+      "feeding_behavior": "Stadna ryba denna. Żeruje w sposób charakterystyczny: najpierw 'podpala' spławik (unosi go), a dopiero potem zatapia.",
+      "best_baits": [
+        "Gnojaki (czerwone robaki)",
+        "Kukurydza",
+        "Kulki proteinowe o małych średnicach",
+        "Pęczek białych robaków"
+      ],
+      "meat_taste": "Mięso smaczne, ale zawiera sporo drobnych ości w górnej partii tułowia. Starsze osobniki bywają tłuste i najlepiej nadają się do wędzenia."
+    }
+  ]
+}
+
+```
