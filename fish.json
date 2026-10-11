@@ -11,7 +11,8 @@
         "Żywiec (mała ukleja)",
         "Robaki (białe robaki, czerwone robaki)"
       ],
-      "meat_taste": "Białe, chude, bardzo smaczne mięso o zwartej strukturze i małej ilości ości."
+      "meat_taste": "Białe, chude, bardzo smaczne mięso o zwartej strukturze i małej ilości ości.",
+      "image_url": "https://github.com/Tywanek/fishindo-config/blob/main/fish_img/European_Perch.jpg"
     },
     {
       "id": "pike",
@@ -25,7 +26,8 @@
         "Gumy (twistery, rippery)",
         "Martwa rybka"
       ],
-      "meat_taste": "Chude, jędrne mięso, dość chrzęstne i ościste (szczególnie ości widelcowe), doskonałe na mielone lub faszerowane."
+      "meat_taste": "Chude, jędrne mięso, dość chrzęstne i ościste (szczególnie ości widelcowe), doskonałe na mielone lub faszerowane.",
+      "image_url": "https://github.com/Tywanek/fishindo-config/blob/main/fish_img/Northern_Pike.jpg"
     },
     {
       "id": "zander",
@@ -38,7 +40,8 @@
         "Gumy sandaczowe (kopyta, rippery na główkach jigowych)",
         "Martwa rybka na dnie"
       ],
-      "meat_taste": "Wykwintne, białe, delikatne mięso o niskiej zawartości tłuszczu, z bardzo małą ilością ości – uważa się je za jedno z najsmaczniejszych."
+      "meat_taste": "Wykwintne, białe, delikatne mięso o niskiej zawartości tłuszczu, z bardzo małą ilością ości – uważa się je za jedno z najsmaczniejszych.",
+      "image_url": "https://github.com/Tywanek/fishindo-config/blob/main/fish_img/Zander.jpg"
     },
     {
       "id": "tench",
@@ -52,7 +55,8 @@
         "Pęczak",
         "Białe robaki"
       ],
-      "meat_taste": "Delikatne, słodkawe mięso o specyficznym, mulistym posmaku (którego można pozbyć się, mocząc rybę w mleku przed przyrządzeniem)."
+      "meat_taste": "Delikatne, słodkawe mięso o specyficznym, mulistym posmaku (którego można pozbyć się, mocząc rybę w mleku przed przyrządzeniem).",
+      "image_url": "https://github.com/Tywanek/fishindo-config/blob/main/fish_img/Tench.jpg"
     },
     {
       "id": "roach",
