@@ -1,6 +1,3 @@
-Oto zaktualizowany plik JSON, w którym wszystkie linki do zdjęć zostały zmienione na wersję `raw` (bezpośrednie odnośniki do plików graficznych na GitHubie):
-
-```json
 {
   "fish_species": [
     {
@@ -104,5 +101,3 @@ Oto zaktualizowany plik JSON, w którym wszystkie linki do zdjęć zostały zmie
     }
   ]
 }
-
-```
